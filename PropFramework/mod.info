@@ -1,0 +1,8 @@
+name=Prop Framework
+id=PropFramework
+description=Core framework providing reusable functions for Project Zomboid Build 42 mods. Includes profession management, trait systems, skill handling, item utilities, and more.
+poster=poster.png
+modversion=1.0.0
+pzversion=42.0
+authors=prop11
+url=https://github.com/prop11/propFramework
